@@ -24,10 +24,7 @@
 
 ### [Niko]("https://github.com/NikoFramework/Niko") （MPL-2.0）
 
-​	一个由个人开发者开发的一个打造一个简易、效率的机器人框架。
-
-​	此项目依赖了 [Onebot-Client-Next](https://github.com/kamenomi-dev/Onebot-Client-Next) ，从根本实现上就是面向 QQ 的 Onebot v11 SDK，所以仅做到了 QQ 平台的支持。
-
+​	一个由个人开发者开发的一个打造一个简易、通透的机器人框架。
 
 
 ## 组织成员
